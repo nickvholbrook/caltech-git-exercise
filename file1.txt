@@ -1,3 +1,6 @@
 Some text for file1
 Some more text
 Adding another line to file1
+The quick brown fox jumps over the lazy dog. 
+Another line
+This makes three new lines
